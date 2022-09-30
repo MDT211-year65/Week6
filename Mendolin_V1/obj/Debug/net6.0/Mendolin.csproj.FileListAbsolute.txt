@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.AssemblyInfo.cs
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/bin/Debug/net6.0/Mendolin
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/bin/Debug/net6.0/Mendolin.deps.json
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/bin/Debug/net6.0/Mendolin.runtimeconfig.json
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/bin/Debug/net6.0/Mendolin.dll
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/bin/Debug/net6.0/Mendolin.pdb
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.dll
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/refint/Mendolin.dll
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.pdb
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/Mendolin.genruntimeconfig.cache
+/Users/kittinunchobtham/Desktop/Week6/Mendolin_V1/obj/Debug/net6.0/ref/Mendolin.dll
